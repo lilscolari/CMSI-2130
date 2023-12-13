@@ -1,1 +1,2 @@
-# CMSI-2130
+# CMSI-2130 Algorithms and Analysis
+The study of algorithm paradigms, including divide-and-conquer, greedy methods, dynamic programming, and randomization, with an emphasis on combinatorial search. Modern heuristics, such as genetic programs and simulated annealing. String problems, including matching and longest common subsequence. Advanced sorting. Algorithms for cake-cutting and fair division. Generating combinatorial objects such as permutations, combinations, subsets, and partitions. Graph algorithms. Computational geometry. Recurrences and the Master Theorem.
